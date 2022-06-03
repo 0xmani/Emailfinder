@@ -7,3 +7,11 @@ This project will enable you to look up the actual email addressess of the domai
 ```bash
 root@mani:~$ python3 emailscraper.py <targetdomain>
 ```
+# Setup:
+
+```bash
+git clone https://github.com/0xmani/Emailfinder.git
+cd Emailfinder
+chmod +x setup.sh
+```
+
